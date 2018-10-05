@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.fabric8:fabric8-maven-generator-vertx:3.5.41">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/fabric8-maven-generator-vertx/3.5.41/fabric8-maven-generator-vertx-3.5.41.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/fabric8-maven-generator-vertx/3.5.41/fabric8-maven-generator-vertx-3.5.41-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/fabric8-maven-generator-vertx/3.5.41/fabric8-maven-generator-vertx-3.5.41-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

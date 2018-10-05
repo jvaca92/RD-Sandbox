@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: DEBUG
+
+pf4j:
+  plugins:
+    storage: I:\plugins

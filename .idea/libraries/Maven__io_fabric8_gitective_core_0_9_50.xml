@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.fabric8:gitective-core:0.9.50">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/gitective-core/0.9.50/gitective-core-0.9.50.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/gitective-core/0.9.50/gitective-core-0.9.50-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/gitective-core/0.9.50/gitective-core-0.9.50-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

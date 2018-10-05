@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FabricSpringTest" />
+        <module name="FXMLSiteMesh" />
+        <module name="FXMLViewMesh" />
+        <module name="kube-pod" />
+        <module name="kube-pod-2" />
+        <module name="kubernete-pod-1" />
+        <module name="kubernete-pod_1" />
+        <module name="Pf4jAPIPluginTest" />
+        <module name="Pf4jPluginTest" />
+        <module name="Pf4jSpringTest" />
+        <module name="Pf4jTestApp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FabricSpringTest" target="1.8" />
+      <module name="FXMLSiteMesh" target="1.8" />
+      <module name="FXMLViewMesh" target="1.8" />
+      <module name="kube-pod" target="1.8" />
+      <module name="kube-pod-2" target="1.8" />
+      <module name="kubernete-pod-1" target="1.8" />
+      <module name="kubernete-pod_1" target="1.8" />
+      <module name="MicroserverTest" target="1.8" />
+      <module name="MySandbox" target="1.8" />
+      <module name="Pf4jAPIPluginTest" target="1.8" />
+      <module name="Pf4jPluginSkeleton" target="1.8" />
+      <module name="Pf4jPluginTest" target="1.8" />
+      <module name="Pf4jSpringTest" target="1.8" />
+      <module name="Pf4jTestApp" target="1.8" />
+      <module name="spring-boot-web-jsp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

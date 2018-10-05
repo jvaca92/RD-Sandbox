@@ -1,0 +1,10 @@
+<!-- Configuration for xjc command to avoid of generation inner classes-->
+<jaxb:bindings version="1.0"
+               xmlns:xs="http://www.w3.org/2001/XMLSchema"
+               xmlns:jaxb="http://java.sun.com/xml/ns/jaxb"
+               xmlns:xjc= "http://java.sun.com/xml/ns/jaxb/xjc">
+    <jaxb:globalBindings>
+        <xjc:simple/>
+    </jaxb:globalBindings>
+</jaxb:bindings>
+

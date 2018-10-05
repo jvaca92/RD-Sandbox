@@ -1,0 +1,12 @@
+#@decorate("template1")
+        <AnchorPane fx:id="template2" xmlns="http://javafx.com/javafx"
+                    xmlns:fx="http://javafx.com/fxml"
+                    prefHeight="400.0" prefWidth="600.0">
+        </AnchorPane>
+        #@decorate("template1")
+                <AnchorPane fx:id="template2" xmlns="http://javafx.com/javafx"
+                            xmlns:fx="http://javafx.com/fxml"
+                            prefHeight="400.0" prefWidth="600.0">
+                </AnchorPane>
+        #end
+#end

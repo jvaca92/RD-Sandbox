@@ -1,0 +1,1 @@
+xjc -b binding.xml -xmlschema src\main\resources\plugin-descriptor.xsd -d src\main\java\ -p my.sandbox.pf4j.spring.xml.modules

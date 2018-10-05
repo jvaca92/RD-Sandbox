@@ -1,0 +1,10 @@
+<fx-plugin version="1">
+    <plugin-info>
+        <id>${project.artifactId}.${project.groupId}</id>
+        <provider>Jan Vaca</provider>
+        <version>${project.version}</version>
+        <class>my.sandbox.plugin.api.test.PluginConfig</class>
+        <description>Test plugin with API</description>
+        <dependencies></dependencies>
+    </plugin-info>
+</fx-plugin>

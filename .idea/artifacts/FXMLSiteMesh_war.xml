@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FXMLSiteMesh:war">
+    <output-path>$PROJECT_DIR$/FXMLSiteMesh/target</output-path>
+    <root id="archive" name="fxml-sitemesh-test-1.0.war">
+      <element id="artifact" artifact-name="FXMLSiteMesh:war exploded" />
+    </root>
+  </artifact>
+</component>

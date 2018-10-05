@@ -1,0 +1,20 @@
+<fx-plugin version="1">
+    <plugin-info>
+        <id>${project.artifactId}.${project.groupId}</id>
+        <provider>Jan Vaca</provider>
+        <version>${project.version}</version>
+        <class>my.sandbox.pf4j.plugins.test.PluginConfig</class>
+        <description>Test plugin xml descriptor</description>
+        <dependencies></dependencies>
+    </plugin-info>
+    <rest-module key="test-rest-plugin" version="1.0">
+    <description></description>
+        <class>my.sandbox.pf4j.plugins.test.rest.TestService</class>
+        <class></class>
+    </rest-module>
+    <rest-module key="test-rest-plugin2" version="1.0">
+        <description></description>
+        <class>my.sandbox.pf4j.plugins.test.rest.TestService2</class>
+        <class></class>
+    </rest-module>
+</fx-plugin>

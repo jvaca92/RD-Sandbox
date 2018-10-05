@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+
+    <groupId>my-sandbox</groupId>
+    <artifactId>MySandbox</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>FXMLSiteMesh</module>
+        <module>FXMLViewMesh</module>
+        <module>Pf4jSpringTest</module>
+        <module>Pf4jPluginTest</module>
+        <module>Pf4jTestApp</module>
+        <module>Pf4jAPIPluginTest</module>
+        <module>FabricSpringTest</module>
+        <module>kube-pod</module>
+        <module>kube-pod-2</module>
+    </modules>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>1.4.2.RELEASE</version>
+    </parent>
+
+
+    <properties>
+        <java.version>1.8</java.version>
+        <sitemesh.version>3.0.0</sitemesh.version>
+    </properties>
+</project>

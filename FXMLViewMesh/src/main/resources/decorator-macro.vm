@@ -1,0 +1,7 @@
+##Macro wrapper for decorators
+#macro(decorate $decoratorName)
+    #if($decorators.containsKey($decoratorName))
+        #set($content = $bodyContent)
+        #evaluate($decorators.get($decoratorName))
+    #end
+#end

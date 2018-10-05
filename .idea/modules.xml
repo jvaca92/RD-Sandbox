@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FXMLSiteMesh/FXMLSiteMesh.iml" filepath="$PROJECT_DIR$/FXMLSiteMesh/FXMLSiteMesh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FXMLViewMesh/FXMLViewMesh.iml" filepath="$PROJECT_DIR$/FXMLViewMesh/FXMLViewMesh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fabric8QuickExample/Fabric8QuickExample.iml" filepath="$PROJECT_DIR$/Fabric8QuickExample/Fabric8QuickExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FabricSpringTest/FabricSpringTest.iml" filepath="$PROJECT_DIR$/FabricSpringTest/FabricSpringTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySandbox.iml" filepath="$PROJECT_DIR$/MySandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pf4jAPIPluginTest/Pf4jAPIPluginTest.iml" filepath="$PROJECT_DIR$/Pf4jAPIPluginTest/Pf4jAPIPluginTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pf4jPluginTest/Pf4jPluginTest.iml" filepath="$PROJECT_DIR$/Pf4jPluginTest/Pf4jPluginTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pf4jSpringTest/Pf4jSpringTest.iml" filepath="$PROJECT_DIR$/Pf4jSpringTest/Pf4jSpringTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pf4jTestApp/Pf4jTestApp.iml" filepath="$PROJECT_DIR$/Pf4jTestApp/Pf4jTestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kube-pod/kube-pod.iml" filepath="$PROJECT_DIR$/kube-pod/kube-pod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kube-pod-2/kube-pod-2.iml" filepath="$PROJECT_DIR$/kube-pod-2/kube-pod-2.iml" />
+    </modules>
+  </component>
+</project>

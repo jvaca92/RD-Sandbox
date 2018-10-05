@@ -1,0 +1,32 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="fx-plugin">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="plugin-info">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element type="xs:string" name="id"/>
+                            <xs:element type="xs:string" name="provider"/>
+                            <xs:element type="xs:string" name="version"/>
+                            <xs:element type="xs:string" name="class" />
+                            <xs:element type="xs:string" name="description" minOccurs="0" maxOccurs="1"/>
+                            <xs:element type="xs:string" name="dependencies" minOccurs="0" maxOccurs="1"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="rest-module" minOccurs="0" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element type="xs:string" name="description" minOccurs="0" maxOccurs="1"/>
+                            <xs:element type="xs:string" name="class" maxOccurs="unbounded" minOccurs="0"/>
+                        </xs:sequence>
+                        <xs:attribute type="xs:string" name="key"/>
+                        <xs:attribute type="xs:float" name="version"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:byte" name="version"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
+

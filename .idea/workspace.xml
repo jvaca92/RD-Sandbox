@@ -1,0 +1,1955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d28aa8b-8c98-4ac9-9715-7157eb03bdc2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/FXMLSiteMesh_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/FXMLSiteMesh_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_boot_web_jsp_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_boot_web_jsp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kubernetes-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jffi_1_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jffi_native_1_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_constants_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_enxio_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_ffi_2_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_posix_3_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_unixsocket_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_x86asm_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_mifmif_generex_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_zafarkhaja_java_semver_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0_android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_networknt_json_schema_validator_0_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_logging_interceptor_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_api_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dk_brics_automaton_automaton_1_11_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dnsjava_dnsjava_2_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_cxf_utils_3_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_docker_maven_plugin_0_22_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_core_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_enricher_api_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_enricher_fabric8_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_enricher_osio_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_enricher_standard_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_generator_api_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_generator_java_exec_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_generator_karaf_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_generator_spring_boot_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_generator_thorntail_v2_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_generator_vertx_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_generator_webapp_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_generator_wildfly_swarm_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_plugin_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_watcher_api_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_maven_watcher_standard_3_5_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_project_utils_3_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_fabric8_utils_3_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_gitective_core_0_9_50.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_gitrepo_api_3_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_ianaservicehelper_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_jaxrs_utils_3_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_kubernetes_api_3_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_kubernetes_client_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_kubernetes_model_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_openshift_client_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fabric8_zjsonpatch_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_enterprise_cdi_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_oauth_core_oauth_20100527.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_text_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_core_3_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxrs_3_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_client_3_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_3_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_archiver_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_builder_support_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_compat_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_core_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_plugins_maven_assembly_plugin_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_file_management_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_common_artifact_filters_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_filtering_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_repository_builder_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_io_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_utils_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_core_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_taglib_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_tiles_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ws_xmlschema_xmlschema_core_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_reflect_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_57.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_57.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_archiver_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_api_1_0_alpha_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interactivity_api_1_0_alpha_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_api_1_0_2_v20150114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_impl_1_0_2_v20150114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_spi_1_0_2_v20150114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_util_1_0_2_v20150114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_0_1_201806211838_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_inject_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_plexus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_jansi_jansi_1_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_class_model_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_config_types_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_asm_all_repackaged_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_config_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_core_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_runlevel_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_spring_bridge_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_bean_validation_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_spring3_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_iq80_snappy_snappy_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javatuples_javatuples_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_api_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_impl_base_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_spi_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_util_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_pf4j_pf4j_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_pf4j_pf4j_spring_0_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_pf4j_pf4j_update_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_picocontainer_picocontainer_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sitemesh_sitemesh_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_ext_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_build_api_0_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_no_aop_3_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jersey_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__sslext_sslext_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/FXMLSiteMesh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/src/main/java/my/sandbox/fxml/sitemesh/FXMLContentProcssor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/src/main/java/my/sandbox/fxml/sitemesh/SpringBootWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/src/main/java/my/sandbox/fxml/sitemesh/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/src/main/java/my/sandbox/fxml/sitemesh/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/src/main/java/my/sandbox/fxml/sitemesh/filter/FXMLSiteMeshFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/src/main/java/my/sandbox/fxml/sitemesh/tag/ImportTagExtractRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/src/main/java/my/sandbox/fxml/sitemesh/tag/ImportTagRuleBundle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/src/main/resources/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/src/main/webapp/WEB-INF/decorators/template-main.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/src/main/webapp/WEB-INF/decorators/test-fragment.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/src/main/webapp/WEB-INF/jsp/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/FXMLSiteMesh-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/FXMLSiteMesh-1.0.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/classes/my/sandbox/fxml/sitemesh/FXMLContentProcssor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/classes/my/sandbox/fxml/sitemesh/SpringBootWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/classes/my/sandbox/fxml/sitemesh/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/classes/my/sandbox/fxml/sitemesh/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/classes/my/sandbox/fxml/sitemesh/filter/FXMLSiteMeshFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/classes/my/sandbox/fxml/sitemesh/tag/ImportTagExtractRule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/classes/my/sandbox/fxml/sitemesh/tag/ImportTagRuleBundle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/classes/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLSiteMesh/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/FXMLViewMesh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/src/main/java/my/sandbox/fxml/viewmesh/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/src/main/java/my/sandbox/fxml/viewmesh/FXMLContentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/src/main/java/my/sandbox/fxml/viewmesh/FXMLHandlerFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/src/main/java/my/sandbox/fxml/viewmesh/PathMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/src/main/java/my/sandbox/fxml/viewmesh/utils/StreamUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/src/main/resources/decorator-macro.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/src/main/resources/decorators/template1.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/src/main/resources/decorators/template2.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/src/main/resources/decorators/template3.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/FXMLViewMesh-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/FXMLViewMesh-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/classes/decorator-macro.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/classes/decorators/template1.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/classes/decorators/template2.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/classes/decorators/template3.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/classes/my/sandbox/fxml/viewmesh/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/classes/my/sandbox/fxml/viewmesh/FXMLContentProcessor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/classes/my/sandbox/fxml/viewmesh/FXMLContentProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/classes/my/sandbox/fxml/viewmesh/FXMLHandlerFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/classes/my/sandbox/fxml/viewmesh/PathMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/classes/my/sandbox/fxml/viewmesh/utils/StreamUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FXMLViewMesh/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/Fabric8QuickExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/src/main/fabric8/io.fabric8.system.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/src/main/java/com/myapp/InvoicingConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/src/main/java/com/myapp/domain/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/src/main/java/com/myapp/domain/InvoiceCorrection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/src/main/java/com/myapp/repository/InvoiceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/src/test/java/com/myapp/InvoicingRestApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/target/classes/com/myapp/InvoicingConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/target/classes/com/myapp/domain/Invoice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/target/classes/com/myapp/domain/InvoiceCorrection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/target/classes/com/myapp/repository/InvoiceRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/target/my-spring-boot-rest-module-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/target/my-spring-boot-rest-module-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/target/surefire-reports/TEST-com.myapp.InvoicingRestApiTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/target/surefire-reports/com.myapp.InvoicingRestApiTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/target/test-classes/com/myapp/InvoicingRestApiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/FabricSpringTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/src/main/java/my/sanbox/fabric/spring/test/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/src/main/java/my/sanbox/fabric/spring/test/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/FabricSpringTest - Shortcut.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/FabricSpringTest-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/FabricSpringTest-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/classes/META-INF/fabric8/kubernetes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/classes/META-INF/fabric8/kubernetes.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/classes/META-INF/fabric8/kubernetes/fabricspringtest-deployment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/classes/META-INF/fabric8/kubernetes/fabricspringtest-svc.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/classes/META-INF/fabric8/openshift.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/classes/META-INF/fabric8/openshift.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/classes/META-INF/fabric8/openshift/fabricspringtest-deploymentconfig.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/classes/META-INF/fabric8/openshift/fabricspringtest-route.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/classes/META-INF/fabric8/openshift/fabricspringtest-svc.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/classes/my/sanbox/fabric/spring/test/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/classes/my/sanbox/fabric/spring/test/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/fabric8/applyJson/default/deployment-fabricspringtest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/fabric8/applyJson/default/service-fabricspringtest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FabricSpringTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySandbox.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/Pf4jAPIPluginTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/src/main/assembly/assembly.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/src/main/java/my/sandbox/plugin/api/test/PluginConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/src/main/java/my/sandbox/plugin/api/test/extensions/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/src/main/java/my/sandbox/plugin/api/test/extensions/MessageServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/src/main/resources/fx-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/target/Pf4jAPIPluginTest-1.0.0-SNAPSHOT-plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/target/Pf4jAPIPluginTest-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/target/classes/META-INF/extensions.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/target/classes/fx-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/target/classes/my/sandbox/plugin/api/test/PluginConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/target/classes/my/sandbox/plugin/api/test/extensions/MessageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/target/classes/my/sandbox/plugin/api/test/extensions/MessageServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jAPIPluginTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/Pf4jPluginTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/src/main/assembly/assembly.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/PluginConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/extensions/ExtensionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/extensions/ExtensionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/internal/MessageProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/internal/MessageProvider2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/internal/MessageProviderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/internal/MessageProviderImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/rest/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/rest/TestService2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/src/main/resources/fx-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/Pf4jPluginTest-0.5.0-SNAPSHOT-plugin - kopie.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/Pf4jPluginTest-0.5.0-SNAPSHOT-plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/Pf4jPluginTest-0.5.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/classes/META-INF/extensions.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/classes/fx-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/classes/my/sandbox/pf4j/plugins/test/PluginConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/classes/my/sandbox/pf4j/plugins/test/extensions/ExtensionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/classes/my/sandbox/pf4j/plugins/test/extensions/ExtensionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/classes/my/sandbox/pf4j/plugins/test/internal/MessageProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/classes/my/sandbox/pf4j/plugins/test/internal/MessageProvider2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/classes/my/sandbox/pf4j/plugins/test/internal/MessageProviderImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/classes/my/sandbox/pf4j/plugins/test/internal/MessageProviderImpl2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/classes/my/sandbox/pf4j/plugins/test/rest/TestService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/classes/my/sandbox/pf4j/plugins/test/rest/TestService2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jPluginTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/Pf4jSpringTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/binding.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/model-generator.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/SampleAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/ExtensionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/ExtensionRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/Plugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/PluginFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/PluginManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/ServiceExtensionFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/annotation/ExtensionImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/annotation/ExtensionImportAnnotationProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/annotation/Plugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/events/PluginAlreadyLoadedExceptionEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/events/PluginCreatedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/events/PluginDisabledEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/events/PluginResolvedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/events/PluginStartedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/events/PluginStateEventListenerDelegate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/events/PluginStoppedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/utils/PluginUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/PluginDescriptorProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/PluginModulesDescriptorFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/XmlPluginDescriptorFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/XmlPluginDescriptorTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/XmlPluginModulesDescriptorFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/descriptors/PluginDescriptorValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/descriptors/PluginDescriptorValidatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/descriptors/PluginModulesDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/descriptors/RestModuleDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/descriptors/XmlPluginDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/descriptors/XmlPluginModulesDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/modules/FxPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/modules/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/modules/PluginInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/modules/RestModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/main/resources/plugin-descriptor.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/test/java/my/sandbox/pf4j/spring/ExtensionManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/test/java/my/sandbox/pf4j/spring/FXPluginManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/test/java/my/sandbox/pf4j/spring/TestAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/test/java/my/sandbox/pf4j/spring/test/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/test/java/my/sandbox/pf4j/spring/test/TestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/src/test/resources/plugins/plugin-test.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/Pf4jSpringTest-1.0.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/SampleAppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/ExtensionManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/ExtensionManager$Holder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/ExtensionManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/ExtensionRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/Plugin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/PluginFactory$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/PluginFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/PluginFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/PluginManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/ServiceExtensionFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/annotation/ExtensionImport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/annotation/ExtensionImportAnnotationProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/annotation/Plugin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/events/PluginAlreadyLoadedExceptionEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/events/PluginCreatedEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/events/PluginDisabledEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/events/PluginResolvedEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/events/PluginStartedEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/events/PluginStateEventListenerDelegate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/events/PluginStoppedEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/utils/PluginUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/PluginDescriptorProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/PluginModulesDescriptorFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/XmlPluginDescriptorFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/XmlPluginDescriptorTransformer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/XmlPluginModulesDescriptorFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/descriptors/PluginDescriptorValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/descriptors/PluginDescriptorValidatorImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/descriptors/PluginModulesDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/descriptors/RestModuleDescriptor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/descriptors/RestModuleDescriptor$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/descriptors/RestModuleDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/descriptors/XmlPluginDescriptor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/descriptors/XmlPluginDescriptor$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/descriptors/XmlPluginDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/descriptors/XmlPluginModulesDescriptor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/descriptors/XmlPluginModulesDescriptor$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/descriptors/XmlPluginModulesDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/modules/FxPlugin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/modules/ObjectFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/modules/PluginInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/my/sandbox/pf4j/spring/xml/modules/RestModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/classes/plugin-descriptor.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/test-classes/my/sandbox/pf4j/spring/ExtensionManagerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/test-classes/my/sandbox/pf4j/spring/FXPluginManagerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/test-classes/my/sandbox/pf4j/spring/TestAppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/test-classes/my/sandbox/pf4j/spring/test/TestService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/test-classes/my/sandbox/pf4j/spring/test/TestServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jSpringTest/target/test-classes/plugins/plugin-test.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/Pf4jTestApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/SampleApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/PluginItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/PluginRepositoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/TableActionCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/events/PluginActionEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/events/PluginActionEventHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/endpoints/TestEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/jersey/JerseyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/jersey/JerseyResourceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/listeners/PluginExceptionListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/listeners/PluginExtensionEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/src/main/resources/fxml/PluginRepository.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/Pf4jTestApp-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/Pf4jTestApp-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/META-INF/build-info.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/fxml/PluginRepository.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/SampleApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/controllers/PluginItem$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/controllers/PluginItem$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/controllers/PluginItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/controllers/PluginRepositoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/controllers/TableActionCell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/controllers/events/PluginActionEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/controllers/events/PluginActionEventHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/endpoints/TestEndpoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/jersey/JerseyConfig$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/jersey/JerseyConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/jersey/JerseyResourceManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/listeners/PluginExceptionListeners.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/classes/my/sandbox/pf4j/testapp/listeners/PluginExtensionEventListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pf4jTestApp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/kube-pod-2-deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/kube-pod-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/src/main/java/my/sandbox/kubernetes/test/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/src/main/java/my/sandbox/kubernetes/test/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/target/classes/my/sandbox/kubernetes/test/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/target/classes/my/sandbox/kubernetes/test/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/target/docker/build.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/target/docker/jvaca92/kube-pod-2/build/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/target/docker/jvaca92/kube-pod-2/build/maven/kubernete-pod-2-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/target/docker/jvaca92/kube-pod-2/tmp/docker-build.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/target/kubernete-pod-2-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/target/kubernete-pod-2-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod-2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/kube-pod-deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/kube-pod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/src/main/java/my/sandbox/kubernetes/test/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/src/main/java/my/sandbox/kubernetes/test/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/src/main/resources/configmap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/target/classes/my/sandbox/kubernetes/test/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/target/classes/my/sandbox/kubernetes/test/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/target/docker/build.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/target/docker/jvaca92/kube-pod/build/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/target/docker/jvaca92/kube-pod/build/maven/kube-pod-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/target/docker/jvaca92/kube-pod/tmp/docker-build.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/target/kube-pod-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/target/kube-pod-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kube-pod/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$USER_HOME$/Downloads/spring-boot-web-jsp/spring-boot-web-fxml-sitemesh/target/" />
+    <ignored path="$PROJECT_DIR$/FXMLSiteMesh/target/" />
+    <ignored path="$PROJECT_DIR$/FXMLViewMesh/target/" />
+    <ignored path="$PROJECT_DIR$/Pf4jSpringTest/target/" />
+    <ignored path="$PROJECT_DIR$/Pf4jPluginTest/target/" />
+    <ignored path="$PROJECT_DIR$/Pf4jPluginSkeleton/target/" />
+    <ignored path="$PROJECT_DIR$/Pf4jTestApp/target/" />
+    <ignored path="$PROJECT_DIR$/MicroserverTest/target/" />
+    <ignored path="$PROJECT_DIR$/Pf4jAPIPluginTest/target/" />
+    <ignored path="$PROJECT_DIR$/Pf4jPluginTest/MicroserverTest/target/" />
+    <ignored path="$PROJECT_DIR$/FabricSpringTest/target/" />
+    <ignored path="$PROJECT_DIR$/kubernete-pod-1/target/" />
+    <ignored path="$PROJECT_DIR$/kubernete-pod-2/target/" />
+    <ignored path="$PROJECT_DIR$/kubernete-pod_1/target/" />
+    <ignored path="$PROJECT_DIR$/kube-pod_1/target/" />
+    <ignored path="$PROJECT_DIR$/kube-pod/target/" />
+    <ignored path="$PROJECT_DIR$/kube-pod-2/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MySandbox$SampleApplication.coverage" NAME="SampleApplication Coverage Results" MODIFIED="1532970694392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MySandbox$FXPluginManagerTest.coverage" NAME="FXPluginManagerTest Coverage Results" MODIFIED="1530106416201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>my.sandbox.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MySandbox$PluginManagerTest.coverage" NAME="PluginManagerTest Coverage Results" MODIFIED="1528731683253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>my.sandbox.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MySandbox" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kube-pod/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="73" column="79" lean-forward="true" selection-start-line="73" selection-start-column="79" selection-end-line="73" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kube-pod-2/kube-pod-2-deployment.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kube-pod-2/src/main/java/my/sandbox/kubernetes/test/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kube-pod/src/main/java/my/sandbox/kubernetes/test/controller/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kube-pod/kube-pod-deployment.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="57" column="33" lean-forward="true" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kube-pod/src/main/resources/configmap.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="FxmlFile" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>log</find>
+      <find>EXTENSION_REGISTER</find>
+      <find>resourceContext</find>
+      <find>PluginRestModuleContext</find>
+      <find>reload</find>
+      <find>WebComp</find>
+      <find>resolver</find>
+      <find>Person</find>
+      <find>The bean instance is type</find>
+      <find>kube-pod-1</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>LOG</replace>
+      <replace>extensionContainer</replace>
+      <replace>restModulesContext</replace>
+      <replace>PluginItem</replace>
+      <replace>kube-pod</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/descriptors/PluginModulesDescriptor.java" />
+        <option value="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/descriptors/XmlPluginModulesDescriptor.java" />
+        <option value="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/xml/XmlPluginModulesDescriptorFinder.java" />
+        <option value="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/jersey/JerseyResourceManager.java" />
+        <option value="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/PluginItem.java" />
+        <option value="$PROJECT_DIR$/Pf4jTestApp/src/main/resources/fxml/PluginRepository.fxml" />
+        <option value="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/events/PluginActionEventHandler.java" />
+        <option value="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/events/PluginActionEvent.java" />
+        <option value="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/SampleApplication.java" />
+        <option value="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/listeners/PluginExtensionEventListener.java" />
+        <option value="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/TableActionCell.java" />
+        <option value="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/ServiceExtensionFinder.java" />
+        <option value="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/extensions/ExtensionService.java" />
+        <option value="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/extensions/ExtensionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/Plugin.java" />
+        <option value="$PROJECT_DIR$/Pf4jAPIPluginTest/src/main/java/my/sandbox/plugin/api/test/PluginConfig.java" />
+        <option value="$PROJECT_DIR$/Pf4jAPIPluginTest/src/main/java/my/sandbox/plugin/api/test/extensions/MessageService.java" />
+        <option value="$PROJECT_DIR$/Pf4jAPIPluginTest/src/main/java/my/sandbox/plugin/api/test/extensions/MessageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Pf4jPluginTest/pom.xml" />
+        <option value="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/PluginFactory.java" />
+        <option value="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/rest/TestService2.java" />
+        <option value="$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/rest/TestService.java" />
+        <option value="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/annotation/ExtensionImportAnnotationProcessor.java" />
+        <option value="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/PluginRepositoryController.java" />
+        <option value="$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/PluginManager.java" />
+        <option value="$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/Pf4jTestApp/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Pf4jPluginTest/src/main/resources/fx-plugin.xml" />
+        <option value="$PROJECT_DIR$/Pf4jAPIPluginTest/src/main/resources/fx-plugin.xml" />
+        <option value="$PROJECT_DIR$/Pf4jAPIPluginTest/pom.xml" />
+        <option value="$PROJECT_DIR$/FabricSpringTest/src/main/java/my/sanbox/fabric/spring/test/App.java" />
+        <option value="$PROJECT_DIR$/FabricSpringTest/src/main/java/my/sanbox/fabric/spring/test/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/kubernete-pod-1/src/main/java/my/sandbox/kubernetes/test/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/FabricSpringTest/pom.xml" />
+        <option value="$PROJECT_DIR$/kubernete-pod-1/pom.xml" />
+        <option value="$PROJECT_DIR$/kubernete-pod_1/pom.xml" />
+        <option value="$PROJECT_DIR$/kube-pod_1/pom.xml" />
+        <option value="$PROJECT_DIR$/kube-pod_1/test.yaml" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.yml" />
+        <option value="$PROJECT_DIR$/kube-pod_1/kube-pod-1-deployment.yaml" />
+        <option value="$PROJECT_DIR$/kube-pod/kube-pod-1-deployment.yaml" />
+        <option value="$PROJECT_DIR$/kube-pod-2/src/main/java/my/sandbox/kubernetes/test/App.java" />
+        <option value="$PROJECT_DIR$/kube-pod-2/pom.xml" />
+        <option value="$PROJECT_DIR$/kube-pod-2/kube-pod-deployment.yaml" />
+        <option value="$PROJECT_DIR$/kube-pod-2/src/main/java/my/sandbox/kubernetes/test/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/kube-pod-2/kube-pod-2-deployment.yaml" />
+        <option value="$PROJECT_DIR$/kube-pod/src/main/java/my/sandbox/kubernetes/test/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/kube-pod/pom.xml" />
+        <option value="$PROJECT_DIR$/kube-pod/src/main/resources/configmap.yaml" />
+        <option value="$PROJECT_DIR$/kube-pod/kube-pod-deployment.yaml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-1198" />
+    <option name="width" value="1132" />
+    <option name="height" value="1182" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="kube-pod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="kube-pod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="kube-pod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="kube-pod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="kube-pod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="kube-pod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="kube-pod-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="kube-pod-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="kube-pod-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="kube-pod-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="kube-pod-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="kube-pod-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538769373535" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="yaml" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/JIRAPlugins/SLAPlugin/slaplugin" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="my.sandbox.pf4j.spring.xml" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="my.sandbox.pf4j.spring" />
+      <recent name="my.sandbox.pf4j.spring.plugin" />
+      <recent name="my.sandbox.fxml.viewmesh" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="my.sandbox.pf4j.spring" />
+      <recent name="my.sandbox" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="my.sandbox.pf4j.plugins.test.internal" />
+      <recent name="my.sandbox.pf4j.plugins.test.rest" />
+      <recent name="my.sandbox.pf4j.testapp.listeners" />
+      <recent name="my.sandbox.pf4j.plugins.test.services" />
+      <recent name="my.sandbox.pf4j.spring.components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\MySandbox\kube-pod-2" />
+      <recent name="I:\MySandbox\kube-pod-2\src" />
+      <recent name="I:\MySandbox\kube-pod-2\src\main" />
+      <recent name="I:\MySandbox\kubernete-pod_1" />
+      <recent name="I:\MySandbox\kubernete-pod-1\src\main\java\my\sandbox\kubernetes\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vaca\Documents\MySandbox\Pf4jSpringTest\src\main" />
+      <recent name="C:\Users\vaca\Documents\MySandbox\FXMLViewMesh\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.App (2)">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my.sandbox.microserver.SimpleApp" />
+      <module name="MicroserverTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.sandbox.microserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FXPluginManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pf4jSpringTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="my.sandbox.pf4j.spring" />
+      <option name="MAIN_CLASS_NAME" value="my.sandbox.pf4j.spring.FXPluginManagerTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="FabricSpringTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.sanbox.fabric.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="my.sanbox.fabric.spring.test.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kubernete-pod-1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="my.sandbox.kubernetes.test.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="FXMLViewMesh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.sandbox.fxml.viewmesh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="my.sandbox.fxml.viewmesh.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Pf4jTestApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="my.sandbox.pf4j.testapp.SampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="FXMLSiteMesh" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="my.sandbox.fxml.sitemesh.SpringBootWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Pf4jSpringTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="my.sandbox.TestApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SimpleApp" />
+      <item itemvalue="JUnit.FXPluginManagerTest" />
+      <item itemvalue="Spring Boot.SpringBootWebApplication" />
+      <item itemvalue="Spring Boot.SampleApplication" />
+      <item itemvalue="Spring Boot.App (2)" />
+      <item itemvalue="Spring Boot.App" />
+      <item itemvalue="Spring Boot.TestApp" />
+      <item itemvalue="Spring Boot.App (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.App (1)" />
+        <item itemvalue="Application.SimpleApp" />
+        <item itemvalue="JUnit.FXPluginManagerTest" />
+        <item itemvalue="Spring Boot.TestApp" />
+        <item itemvalue="Spring Boot.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\janva\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>true</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d28aa8b-8c98-4ac9-9715-7157eb03bdc2" name="Default" comment="" />
+      <created>1526326857123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526326857123</updated>
+      <workItem from="1526326861727" duration="3446000" />
+      <workItem from="1526367569591" duration="12167000" />
+      <workItem from="1526405901306" duration="1601000" />
+      <workItem from="1526419229922" duration="3327000" />
+      <workItem from="1526454506921" duration="20193000" />
+      <workItem from="1526545502553" duration="1408000" />
+      <workItem from="1526561558357" duration="3767000" />
+      <workItem from="1526579409613" duration="6303000" />
+      <workItem from="1526631424551" duration="12133000" />
+      <workItem from="1526719231421" duration="5051000" />
+      <workItem from="1526891778978" duration="16272000" />
+      <workItem from="1526976277456" duration="16591000" />
+      <workItem from="1527020366869" duration="23740000" />
+      <workItem from="1527104411387" duration="9244000" />
+      <workItem from="1527145817025" duration="718000" />
+      <workItem from="1527147121179" duration="14877000" />
+      <workItem from="1527182288008" duration="8781000" />
+      <workItem from="1527228372480" duration="2318000" />
+      <workItem from="1527238027436" duration="14705000" />
+      <workItem from="1527280356671" duration="21454000" />
+      <workItem from="1528187143968" duration="7581000" />
+      <workItem from="1528229140241" duration="3936000" />
+      <workItem from="1528271821059" duration="19665000" />
+      <workItem from="1528355302628" duration="13021000" />
+      <workItem from="1528446178543" duration="18557000" />
+      <workItem from="1528621854671" duration="6599000" />
+      <workItem from="1528703479111" duration="7380000" />
+      <workItem from="1528714668100" duration="15289000" />
+      <workItem from="1528743819379" duration="5754000" />
+      <workItem from="1528789371894" duration="3494000" />
+      <workItem from="1528799408302" duration="13917000" />
+      <workItem from="1529690093953" duration="7749000" />
+      <workItem from="1529912591080" duration="15573000" />
+      <workItem from="1529994158382" duration="1392000" />
+      <workItem from="1530001217544" duration="9606000" />
+      <workItem from="1530091432092" duration="16833000" />
+      <workItem from="1530128960376" duration="5408000" />
+      <workItem from="1530173839706" duration="15019000" />
+      <workItem from="1530216313930" duration="27007000" />
+      <workItem from="1530339205674" duration="1069000" />
+      <workItem from="1530453299204" duration="14716000" />
+      <workItem from="1530519700047" duration="7402000" />
+      <workItem from="1530560969149" duration="1840000" />
+      <workItem from="1530603062901" duration="9486000" />
+      <workItem from="1530631990547" duration="4686000" />
+      <workItem from="1530691278479" duration="23633000" />
+      <workItem from="1530858139685" duration="20371000" />
+      <workItem from="1530905291983" duration="5858000" />
+      <workItem from="1530957128867" duration="783000" />
+      <workItem from="1530987917987" duration="9172000" />
+      <workItem from="1531003013562" duration="770000" />
+      <workItem from="1531046156271" duration="2272000" />
+      <workItem from="1531060057215" duration="10979000" />
+      <workItem from="1531121600106" duration="13449000" />
+      <workItem from="1531171603440" duration="2762000" />
+      <workItem from="1531209421590" duration="12327000" />
+      <workItem from="1531259872484" duration="1019000" />
+      <workItem from="1531299364481" duration="7191000" />
+      <workItem from="1531382310046" duration="1957000" />
+      <workItem from="1531432707745" duration="1429000" />
+      <workItem from="1531468016272" duration="9810000" />
+      <workItem from="1531514707284" duration="581000" />
+      <workItem from="1531740843723" duration="10012000" />
+      <workItem from="1531768236181" duration="6888000" />
+      <workItem from="1531810512774" duration="22415000" />
+      <workItem from="1531863623048" duration="9584000" />
+      <workItem from="1531924685152" duration="1206000" />
+      <workItem from="1531997226091" duration="1346000" />
+      <workItem from="1532076580179" duration="31172000" />
+      <workItem from="1532324777895" duration="23764000" />
+      <workItem from="1532378595378" duration="3303000" />
+      <workItem from="1532414434207" duration="13485000" />
+      <workItem from="1532456232665" duration="4424000" />
+      <workItem from="1532462988504" duration="7513000" />
+      <workItem from="1532506577068" duration="7557000" />
+      <workItem from="1532556705649" duration="786000" />
+      <workItem from="1532592193280" duration="492000" />
+      <workItem from="1532640641986" duration="2199000" />
+      <workItem from="1532681611641" duration="3655000" />
+      <workItem from="1532951047493" duration="5448000" />
+      <workItem from="1532970246100" duration="3564000" />
+      <workItem from="1533139576223" duration="637000" />
+      <workItem from="1533161651159" duration="6072000" />
+      <workItem from="1533574502600" duration="211000" />
+      <workItem from="1534113642665" duration="2336000" />
+      <workItem from="1534276798451" duration="1921000" />
+      <workItem from="1534660147320" duration="5022000" />
+      <workItem from="1536247095712" duration="1700000" />
+      <workItem from="1536503324939" duration="60000" />
+      <workItem from="1536521632072" duration="3419000" />
+      <workItem from="1536867220783" duration="2401000" />
+      <workItem from="1536951348113" duration="1785000" />
+      <workItem from="1537163406188" duration="1241000" />
+      <workItem from="1537294217351" duration="9034000" />
+      <workItem from="1537688892896" duration="12000" />
+      <workItem from="1537688937862" duration="3200000" />
+      <workItem from="1537911717413" duration="16124000" />
+      <workItem from="1538137771045" duration="2162000" />
+      <workItem from="1538172763325" duration="2703000" />
+      <workItem from="1538176447893" duration="902000" />
+      <workItem from="1538177454672" duration="48512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FXPluginManagerTest - 2018.06.27 at 17h 58m 22s.xml">
+      <configuration name="FXPluginManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FXPluginManagerTest - 2018.06.27 at 18h 02m 19s.xml">
+      <configuration name="FXPluginManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FXPluginManagerTest - 2018.06.27 at 18h 04m 45s.xml">
+      <configuration name="FXPluginManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FXPluginManagerTest - 2018.06.27 at 18h 07m 20s.xml">
+      <configuration name="FXPluginManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FXPluginManagerTest - 2018.06.27 at 18h 08m 21s.xml">
+      <configuration name="FXPluginManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FXPluginManagerTest - 2018.06.27 at 18h 09m 20s.xml">
+      <configuration name="FXPluginManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FXPluginManagerTest - 2018.06.27 at 23h 24m 26s.xml">
+      <configuration name="FXPluginManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FXPluginManagerTest - 2018.06.27 at 23h 43m 56s.xml">
+      <configuration name="FXPluginManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FXPluginManagerTest - 2018.06.27 at 23h 45m 39s.xml">
+      <configuration name="FXPluginManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FXPluginManagerTest - 2018.06.27 at 23h 48m 12s.xml">
+      <configuration name="FXPluginManagerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="843705000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-1198" width="1132" height="1182" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47887325" visible="true" weight="0.37593284" />
+      <window_info id="Structure" order="1" weight="0.24972972" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="simpleUML" order="4" weight="0.32975295" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Web" order="6" sideWeight="0.52112675" side_tool="true" weight="0.35027027" />
+      <window_info id="Favorites" order="7" sideWeight="0.52112675" side_tool="true" weight="0.35027027" />
+      <window_info id="Designer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32522798" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.3704197" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6557292" weight="0.4238156" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896304" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.4334601" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.46611053" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" weight="0.32896304" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="11" weight="0.32896304" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32810616" />
+      <window_info anchor="bottom" id="Script Monkey" order="13" weight="0.32896304" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" sideWeight="0.49411765" weight="0.67368424" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.64576274" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5058824" side_tool="true" weight="0.32972974" />
+      <window_info anchor="right" id="Maven Projects" order="10" weight="0.32972974" />
+      <window_info anchor="right" id="CDI" order="11" />
+      <window_info anchor="right" id="Maven" order="12" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.486" visible="true" weight="0.30504835" />
+      <window_info id="Structure" order="1" weight="0.24973147" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="simpleUML" order="4" weight="0.32975295" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Web" order="6" sideWeight="0.514" side_tool="true" weight="0.30504835" />
+      <window_info id="Favorites" order="7" sideWeight="0.5125725" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32522798" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.15971394" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6557292" weight="0.08224076" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896304" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.43757293" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.46712804" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" weight="0.32896304" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="11" weight="0.32896304" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32896304" />
+      <window_info anchor="bottom" id="Script Monkey" order="13" weight="0.32896304" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Bean Validation" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.024479168" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FXMLSiteMesh/src/main/java/my/sandbox/fxml/sitemesh/tag/ImportTagExtractRule.java</url>
+          <line>23</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FXMLSiteMesh/src/main/java/my/sandbox/fxml/sitemesh/filter/FXMLSiteMeshFilter.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FXMLSiteMesh/src/main/java/my/sandbox/fxml/sitemesh/tag/ImportTagRuleBundle.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FXMLViewMesh/src/main/java/my/sandbox/fxml/viewmesh/FXMLContentProcessor.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FXMLViewMesh/src/main/java/my/sandbox/fxml/viewmesh/App.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/pf4j/pf4j/2.2.0/pf4j-2.2.0.jar!/org/pf4j/ServiceProviderExtensionFinder.class</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/pf4j/pf4j/2.0.0/pf4j-2.0.0.jar!/org/pf4j/util/FileUtils.class</url>
+          <line>191</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/jvaca92/pf4j/pf4j/c0721f2320/pf4j-c0721f2320.jar!/org/pf4j/ServiceProviderExtensionFinder.class</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/ExtensionManager.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.4.RELEASE/spring-test-4.3.4.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.class</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/aop/PluginExceptionAOP.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/config/AppConfig.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/events/PluginActionEvent.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/TableActionCell.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/Plugin.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/annotation/ExtensionImportAnnotationProcessor.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="o.getClass().getName().equals(&quot;my.sandbox.pf4j.plugins.test.rest.TestService&quot;)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/annotation/ExtensionImportAnnotationProcessor.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/pf4j/pf4j/2.3.0/pf4j-2.3.0.jar!/org/pf4j/PluginClassLoader.class</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="resultResource" />
+        <watch expression="pluginContext" />
+        <watch expression="((XmlPluginDescriptorFinder)pluginManager.pluginDescriptorFinder).xmlDescriptorFileName" custom="my.sandbox.pf4j.spring.xml.XmlPluginDescriptorFinder" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/rest/TestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/rest/TestService2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jPluginTest/src/main/java/my/sandbox/pf4j/plugins/test/internal/MessageProviderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/annotation/ExtensionImportAnnotationProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.4.RELEASE/spring-beans-4.3.4.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.4.RELEASE/spring-beans-4.3.4.RELEASE.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.4.RELEASE/spring-beans-4.3.4.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.4.RELEASE/spring-beans-4.3.4.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.4.RELEASE/spring-context-4.3.4.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class" />
+    <entry file="file://$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/controllers/PluginRepositoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3999">
+          <caret line="165" column="39" selection-start-line="165" selection-start-column="39" selection-end-line="165" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/ClassLoader.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.4.RELEASE/spring-core-4.3.4.RELEASE.jar!/org/springframework/util/ReflectionUtils.class" />
+    <entry file="file://$PROJECT_DIR$/MySandbox.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jTestApp/src/main/java/my/sandbox/pf4j/testapp/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jAPIPluginTest/src/main/java/my/sandbox/plugin/api/test/extensions/MessageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jPluginTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1643">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jAPIPluginTest/src/main/assembly/assembly.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jTestApp/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/pf4j/pf4j/2.3.0/pf4j-2.3.0.jar!/org/pf4j/AbstractPluginManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16988">
+          <caret line="607" column="30" selection-start-line="607" selection-start-column="30" selection-end-line="607" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.4.RELEASE/spring-core-4.3.4.RELEASE.jar!/org/springframework/util/ClassUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jAPIPluginTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/PluginManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="87" column="7" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FabricSpringTest/src/main/java/my/sanbox/fabric/spring/test/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jAPIPluginTest/src/main/resources/fx-plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jPluginTest/src/main/resources/fx-plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/pf4j/pf4j/2.3.0/pf4j-2.3.0.jar!/org/pf4j/PluginClassLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="145" column="46" lean-forward="true" selection-start-line="145" selection-start-column="46" selection-end-line="145" selection-end-column="46" />
+          <folding>
+            <marker date="1532951095140" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1532951095140" expanded="false" signature="132:333" ph="..." />
+            <marker date="1532951095140" expanded="true" signature="846:915" ph="{...}" />
+            <marker date="1532951095140" expanded="true" signature="1051:1227" ph="{...}" />
+            <marker date="1532951095140" expanded="true" signature="1261:1331" ph="{...}" />
+            <marker date="1532951095140" expanded="true" signature="1368:1551" ph="{...}" />
+            <marker date="1532951095140" expanded="true" signature="1631:4514" ph="{...}" />
+            <marker date="1532951095140" expanded="true" signature="4556:5399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/src/main/fabric8/io.fabric8.system.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/src/main/java/com/myapp/domain/InvoiceCorrection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/src/main/java/com/myapp/domain/Invoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="574">
+            <caret line="82" selection-start-line="82" selection-end-line="82" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fabric8QuickExample/my-spring-boot-rest-module/src/main/java/com/myapp/InvoicingConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="14" selection-start-line="8" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FabricSpringTest/src/main/java/my/sanbox/fabric/spring/test/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pf4jSpringTest/src/main/java/my/sandbox/pf4j/spring/PluginFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kubernete-pod-1/src/main/java/my/sandbox/kubernetes/test.java" />
+    <entry file="file://$PROJECT_DIR$/kubernete-pod-1/src/main/java/my/sandbox/kubernetes/test/App.java" />
+    <entry file="file://$PROJECT_DIR$/kubernete-pod-1/src/main/java/my/sandbox/kubernetes/test/controller/TestController.java" />
+    <entry file="file://$PROJECT_DIR$/kubernete-pod-1/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/kubernete-pod-1/kubernete-app_1.iml" />
+    <entry file="file://$PROJECT_DIR$/kube-pod_1/test.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FabricSpringTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kube-pod-2/src/main/main/java/my/sandbox/kubernetes/test/App.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kube-pod-2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kube-pod-2/src/main/java/my/sandbox/kubernetes/test/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kube-pod-2/src/main/java/my/sandbox/kubernetes/test/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kube-pod/src/main/resources/configmap.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kube-pod/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="73" column="79" lean-forward="true" selection-start-line="73" selection-start-column="79" selection-end-line="73" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kube-pod-2/kube-pod-2-deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kube-pod/src/main/java/my/sandbox/kubernetes/test/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kube-pod/kube-pod-deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="57" column="33" lean-forward="true" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>FXMLSiteMesh:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>kube-pod_1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
